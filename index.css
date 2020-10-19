@@ -1,0 +1,17 @@
+ <style>
+            li {list-style: none;
+            }
+            .top-nav-bar .info {display: flex;
+                                justify-content: space-around;
+            }
+            .nav-bar  .box-content {display: flex;
+            }
+            .nav-bar  .box-content div {flex: 1;
+            }
+            .nav-bar  .box-content .logo-nav, .nav-bar .level-1 a {text-decoration: none;
+                                                                   color: tomato;
+            }
+            .nav-bar .level-1 {display: flex;
+                               justify-content: space-around;
+            }
+        </style>
